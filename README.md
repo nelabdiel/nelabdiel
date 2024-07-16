@@ -9,7 +9,7 @@ USA      | [http://nel.world](http://www.nel.world)
 
 ## Academic Appointments
 
-<hr>
+
 
 ### Columbia University - School of International and Public Affairs
 *Adjunct Faculty - Lecturer*  
@@ -21,7 +21,7 @@ Teaching graduate policy students Data Science techniques and the Ethics of deve
 
 ## Public Sector Experience
 
-<hr>
+
 
 ### Department of Veterans Affairs - Office of the Chief AI Officer, DC
 *AI Scientist - AI Policy Lead*  
@@ -29,7 +29,7 @@ Teaching graduate policy students Data Science techniques and the Ethics of deve
 
 Lead the AI Policy Workstream, a multidisciplinary team, in developing AI Policy, Governance, and Guidance for the agency. Oversee the Safety and Rights impacting review process for AI use cases at VA.
 
-<hr>
+
 
 ### U.S. Food & Drug Administration - Office of the Commissioner, DC
 *Artificial Intelligence Lead - Responsible AI Official*  
@@ -37,7 +37,7 @@ Lead the AI Policy Workstream, a multidisciplinary team, in developing AI Policy
 
 Established the AI Governance and Advisory Board, guiding AI development and responsible use at the FDA. Advised on AI policies for HHS and the White House, managed AI maturity assessments, budget planning, and served as an AI expert for initiatives like the White House Cancer Moonshot.
 
-<hr>
+
 
 ### U.S. Digital Service, Executive Office of the President, The White House
 *AI & Cybersecurity Lead - Digital Service Expert*  
@@ -45,7 +45,7 @@ Established the AI Governance and Advisory Board, guiding AI development and res
 
 Guided the Department of Veterans Affairs on ethical AI practices, ensuring alignment with White House principles. Led the development of AI-driven cybersecurity products at the Department of Defense, promoted responsible AI development and established the Data Science Community of Practice.
 
-<hr>
+
 
 ### White House Presidential Innovation Fellows, Washington, DC
 *AI Lead - Entrepreneur in Residence*  
@@ -53,11 +53,11 @@ Guided the Department of Veterans Affairs on ethical AI practices, ensuring alig
 
 Led development and deployment of AI-driven solutions, including a Claims Attributes API that reduced VA benefit claims wait times and saved $10 million annually. Crafted AI and Cybersecurity research funding evaluations for ITS-JPO at DOT.
 
-<hr>
+
 
 ## Private Sector Experience
 
-<hr>
+
 
 ### Microsoft, Redmond, WA / Humacao, P.R.
 *Data & Applied Scientist II - Intellectual Property Protection & Solutions*  
@@ -65,7 +65,7 @@ Led development and deployment of AI-driven solutions, including a Claims Attrib
 
 Developed advanced algorithms for time series anomaly and ML-driven intrusion detection, enhancing the security of Microsoft products and cloud services. Led collaborative efforts to address emerging cyber threats.
 
-<hr>
+
 
 ### Soteria - Tailored Cybersecurity Solutions, Charleston, S.C.
 *Lead Data Scientist*  
@@ -73,11 +73,11 @@ Developed advanced algorithms for time series anomaly and ML-driven intrusion de
 
 Led a cross-functional team through the development and deployment of Soteria's proprietary NLP/NLU phishing detection solution.
 
-<hr>
+
 
 ## Education
 
-<hr>
+
 
 **University of Iowa**, Iowa City, IA  
 Ph.D., Mathematics
