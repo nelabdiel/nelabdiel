@@ -2,7 +2,7 @@
 
 Miami, FL, 33127  
 [OrcID Record](https://orcid.org/0009-0009-9038-7328) | [LinkedIn: nelabdiel](https://www.linkedin.com/in/nelabdiel/)  
-[Spotify Verified Artist: Nel Abdiel](https://open.spotify.com/artist/73T51R2Kids9OM2jf3TxPG) | [http://nel.world](http://www.nel.world)  
+[Spotify: Nel Abdiel](https://open.spotify.com/artist/73T51R2Kids9OM2jf3TxPG) | [http://nel.world](http://www.nel.world)  
 
 
 
