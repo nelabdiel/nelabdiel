@@ -18,7 +18,7 @@ USA      | [http://nel.world](http://www.nel.world)
 Teaching graduate policy students Data Science techniques and the Ethics of developing socially impactful products. Responsible for curriculum development, lab creation, and supervision of 5 Graduate Teaching Assistants.
 
 
-
+<hr>
 ## Public Sector Experience
 
 
@@ -98,16 +98,16 @@ M.A. Mathamatics
 B.Sc., Mathematics  
 
 
----
+<hr>
 
 ## Selected Publications
 
----
+
 
 ### Exploiting The Margin: How Capitalism Fuels AI at the Expense of Minoritized Groups
 *Nelson Colón Vargas*, *AI & Ethics*, Springer Journal, 2024. [DOI: 10.1007/s43681-024-00502-w](https://link.springer.com/content/pdf/10.1007/s43681-024-00502-w)
 
----
+
 
 ### The Localized Skein Algebra is Frobenius
 *Nel Abdiel* and Charles Frohman, *Algebraic and Geometric Topology*, Volume 17, Issue 6, October 2017.
