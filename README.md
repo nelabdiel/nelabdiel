@@ -90,7 +90,7 @@ M.Sc., Artificial Intelligence
 M.St., Artificial Intelligence Ethics and Society  
 *Expected June 2025*
 
-**University of Northern Iowa**, Cedar Falls, IA
+**University of Northern Iowa**, Cedar Falls, IA  
 M.A. Mathamatics
 
 **University of Puerto Rico**, Rio Piedras, San Juan, PR  
