@@ -5,7 +5,7 @@ Florida  | [LinkedIn: nelabdiel](https://www.linkedin.com/in/nelabdiel/)
 33127    | [Spotify Verified Artist: Nel Abdiel](https://open.spotify.com/artist/73T51R2Kids9OM2jf3TxPG) |
 USA      | [http://nel.world](http://www.nel.world)  
 
-<hr>
+
 
 ## Academic Appointments
 
@@ -17,7 +17,7 @@ USA      | [http://nel.world](http://www.nel.world)
 
 Teaching graduate policy students Data Science techniques and the Ethics of developing socially impactful products. Responsible for curriculum development, lab creation, and supervision of 5 Graduate Teaching Assistants.
 
-<hr>
+
 
 ## Public Sector Experience
 
