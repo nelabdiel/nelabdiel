@@ -34,7 +34,7 @@ Lead the AI Policy Workstream, a multidisciplinary team, in developing AI Policy
 *Artificial Intelligence Lead - Responsible AI Official*  
 *June 2023 - Dec 2023*
 
-Established the AI Governance and Advisory Board, guiding AI development and responsible use at the FDA. Advised on AI policies for HHS and the White House, managed AI maturity assessments, budget planning, and served as an AI expert for initiatives like the White House Cancer Moonshot.
+Chaired the AI Governance and Advisory Board, guiding AI development and responsible use at the FDA. Advised on AI policies for HHS and the White House, and served as an AI expert for initiatives like the White House Cancer Moonshot.
 
 
 
@@ -42,7 +42,7 @@ Established the AI Governance and Advisory Board, guiding AI development and res
 *AI & Cybersecurity Lead - Digital Service Expert*  
 *Nov 2021 - June 2023*
 
-Guided the Department of Veterans Affairs on ethical AI practices, ensuring alignment with White House principles. Led the development of AI-driven cybersecurity products at the Department of Defense, promoted responsible AI development and established the Data Science Community of Practice.
+Worked with the Department of Veterans Affairs on AI strategies and practices, ensuring alignment with White House ethical principles. Developed AI-driven cybersecurity products at the Department of Defense, promoted responsible AI development.
 
 
 ### White House Presidential Innovation Fellows, Washington, DC
