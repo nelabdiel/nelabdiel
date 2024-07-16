@@ -76,7 +76,7 @@ Led a cross-functional team through the development and deployment of Soteria's 
 
 **University of Iowa**, Iowa City, IA  
 Ph.D., Mathematics
-Thesis: ### Localized Skein Algebras as Frobenius Extensions. [DOI: 10.17077/etd.lxsp43cp](https://doi.org/10.17077/etd.lxsp43cp)
+Thesis: ### Localized Skein Algebras as Frobenius Extensions. [DOI: 10.17077/etd.lxsp43cp](https://doi.org/10.17077/etd.lxsp43cp)  
 M.Sc Mathematics
 
 **University of Texas**, Austin, TX  
