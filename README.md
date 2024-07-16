@@ -1,8 +1,11 @@
 # Nelson A. Colón Vargas, Ph.D.
 
 Miami    | [OrcID Record](https://orcid.org/0009-0009-9038-7328)
+
 Florida  | [LinkedIn: nelabdiel](https://www.linkedin.com/in/nelabdiel/)
+
 33127    | [Spotify Verified Artist: Nel Abdiel](https://open.spotify.com/artist/73T51R2Kids9OM2jf3TxPG)
+
 USA      | [http://nel.world](http://www.nel.world)  
 
 
