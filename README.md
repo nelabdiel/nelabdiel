@@ -75,8 +75,8 @@ Led a cross-functional team through the development and deployment of Soteria's 
 
 
 **University of Iowa**, Iowa City, IA  
-Ph.D., Mathematics
-- Thesis: Localized Skein Algebras as Frobenius Extensions. [DOI: 10.17077/etd.lxsp43cp](https://doi.org/10.17077/etd.lxsp43cp)  
+Ph.D., Mathematics  
+Thesis: Localized Skein Algebras as Frobenius Extensions. [DOI: 10.17077/etd.lxsp43cp](https://doi.org/10.17077/etd.lxsp43cp)  
 M.Sc Mathematics
 
 **University of Texas**, Austin, TX  
@@ -89,7 +89,7 @@ M.St., Artificial Intelligence Ethics and Society
 
 **University of Northern Iowa**, Cedar Falls, IA  
 M.A. Mathamatics  
-- Dissertation: Discrete Subgroups of SL(2, **R**)  
+Dissertation: Discrete Subgroups of SL(2, **R**)  
 
 **University of Puerto Rico**, Rio Piedras, San Juan, PR  
 B.Sc., Mathematics  
@@ -100,13 +100,13 @@ B.Sc., Mathematics
 
 
 ### Exploiting The Margin: How Capitalism Fuels AI at the Expense of Minoritized Groups
-- *Nelson Colón Vargas*, *AI & Ethics*, Springer Journal, 2024. [DOI: 10.1007/s43681-024-00502-w](https://link.springer.com/content/pdf/10.1007/s43681-024-00502-w)
+*Nelson Colón Vargas*, *AI & Ethics*, Springer Journal, 2024. [DOI: 10.1007/s43681-024-00502-w](https://link.springer.com/content/pdf/10.1007/s43681-024-00502-w)
 
 ### The Localized Skein Algebra is Frobenius
-- *Nel Abdiel* and Charles Frohman, *Algebraic and Geometric Topology*, Volume 17, Issue 6, October 2017. [DOI: 10.2140/agt.2017.17.3341](10.2140/agt.2017.17.3341)
+*Nel Abdiel* and Charles Frohman, *Algebraic and Geometric Topology*, Volume 17, Issue 6, October 2017. [DOI: 10.2140/agt.2017.17.3341](10.2140/agt.2017.17.3341)
 
 ### Frobenius Algebras Derived From The Kauffman Bracket Skein Algebras
-- *Nel Abdiel* and Charles Frohman, *Journal of Knot Theory and its Ramification* Volume 25, Issue 04, April 2016. [DOI: 10.1142/S0218216516500164](https://doi.org/10.1142/S0218216516500164)
+*Nel Abdiel* and Charles Frohman, *Journal of Knot Theory and its Ramification* Volume 25, Issue 04, April 2016. [DOI: 10.1142/S0218216516500164](https://doi.org/10.1142/S0218216516500164)
 
 
 
