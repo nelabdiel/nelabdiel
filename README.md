@@ -17,8 +17,8 @@ USA      | [http://nel.world](http://www.nel.world)
 
 Teaching graduate policy students Data Science techniques and the Ethics of developing socially impactful products. Responsible for curriculum development, lab creation, and supervision of 5 Graduate Teaching Assistants.
 
-
 <hr>
+
 ## Public Sector Experience
 
 
@@ -28,7 +28,6 @@ Teaching graduate policy students Data Science techniques and the Ethics of deve
 *Dec 2023 - Present*
 
 Lead the AI Policy Workstream, a multidisciplinary team, in developing AI Policy, Governance, and Guidance for the agency. Oversee the Safety and Rights impacting review process for AI use cases at VA.
-
 
 
 ### U.S. Food & Drug Administration - Office of the Commissioner, DC
@@ -46,17 +45,15 @@ Established the AI Governance and Advisory Board, guiding AI development and res
 Guided the Department of Veterans Affairs on ethical AI practices, ensuring alignment with White House principles. Led the development of AI-driven cybersecurity products at the Department of Defense, promoted responsible AI development and established the Data Science Community of Practice.
 
 
-
 ### White House Presidential Innovation Fellows, Washington, DC
 *AI Lead - Entrepreneur in Residence*  
 *Jan 2019 - Oct 2021*
 
 Led development and deployment of AI-driven solutions, including a Claims Attributes API that reduced VA benefit claims wait times and saved $10 million annually. Crafted AI and Cybersecurity research funding evaluations for ITS-JPO at DOT.
 
-
+<hr>
 
 ## Private Sector Experience
-
 
 
 ### Microsoft, Redmond, WA / Humacao, P.R.
@@ -66,17 +63,15 @@ Led development and deployment of AI-driven solutions, including a Claims Attrib
 Developed advanced algorithms for time series anomaly and ML-driven intrusion detection, enhancing the security of Microsoft products and cloud services. Led collaborative efforts to address emerging cyber threats.
 
 
-
 ### Soteria - Tailored Cybersecurity Solutions, Charleston, S.C.
 *Lead Data Scientist*  
 *June 2016 - Jan 2018*
 
 Led a cross-functional team through the development and deployment of Soteria's proprietary NLP/NLU phishing detection solution.
 
-
+<hr>
 
 ## Education
-
 
 
 **University of Iowa**, Iowa City, IA  
@@ -97,7 +92,6 @@ M.A. Mathamatics
 **University of Puerto Rico**, Rio Piedras, San Juan, PR  
 B.Sc., Mathematics  
 
-
 <hr>
 
 ## Selected Publications
@@ -106,8 +100,6 @@ B.Sc., Mathematics
 
 ### Exploiting The Margin: How Capitalism Fuels AI at the Expense of Minoritized Groups
 *Nelson Colón Vargas*, *AI & Ethics*, Springer Journal, 2024. [DOI: 10.1007/s43681-024-00502-w](https://link.springer.com/content/pdf/10.1007/s43681-024-00502-w)
-
-
 
 ### The Localized Skein Algebra is Frobenius
 *Nel Abdiel* and Charles Frohman, *Algebraic and Geometric Topology*, Volume 17, Issue 6, October 2017.
