@@ -24,7 +24,7 @@ Teaching graduate policy students Data Science techniques and the Ethics of deve
 
 
 ### Department of Veterans Affairs - Office of the Chief AI Officer, DC
-*AI Scientist - AI Policy Lead*  
+*Applied Scientist - AI Policy Lead*  
 *Dec 2023 - Present*
 
 Lead the AI Policy Workstream, a multidisciplinary team, in developing AI Policy, Governance, and Guidance for the agency. Oversee the Safety and Rights impacting review process for AI use cases at VA.
