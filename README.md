@@ -99,6 +99,9 @@ B.Sc., Mathematics
 ## Selected Publications
 
 
+### The Traveling Mailman: Topological Optimization Methods for User-Centric Redistricting
+*Nelson Colón Vargas*, *Under Review*
+
 ### Exploiting The Margin: How Capitalism Fuels AI at the Expense of Minoritized Groups
 *Nelson Colón Vargas*, *AI & Ethics*, Springer Journal, 2024. [DOI: 10.1007/s43681-024-00502-w](https://link.springer.com/content/pdf/10.1007/s43681-024-00502-w)
 
