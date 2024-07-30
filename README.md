@@ -106,7 +106,7 @@ B.Sc., Mathematics
 *Nelson Colón Vargas*, *AI & Ethics*, Springer Journal, 2024. [DOI: 10.1007/s43681-024-00502-w](https://link.springer.com/content/pdf/10.1007/s43681-024-00502-w)
 
 ### The Localized Skein Algebra is Frobenius
-*Nel Abdiel* and Charles Frohman, *Algebraic and Geometric Topology*, Volume 17, Issue 6, October 2017. [DOI: 10.2140/agt.2017.17.3341](10.2140/agt.2017.17.3341)
+*Nel Abdiel* and Charles Frohman, *Algebraic and Geometric Topology*, Volume 17, Issue 6, October 2017. [DOI: 10.2140/agt.2017.17.3341](https://doi.org/10.2140/agt.2017.17.3341)
 
 ### Frobenius Algebras Derived From The Kauffman Bracket Skein Algebras
 *Nel Abdiel* and Charles Frohman, *Journal of Knot Theory and its Ramification* Volume 25, Issue 04, April 2016. [DOI: 10.1142/S0218216516500164](https://doi.org/10.1142/S0218216516500164)
