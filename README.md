@@ -81,7 +81,6 @@ M.Sc Mathematics
 
 **University of Texas**, Austin, TX  
 M.Sc., Artificial Intelligence  
-*Expected December 2024*
 
 **University of Cambridge**, Cambridge, UK  
 M.St., Artificial Intelligence Ethics and Society  
