@@ -2,6 +2,7 @@
 
 Miami, FL, 33127   
 [OrcID Record](https://orcid.org/0009-0009-9038-7328) | [LinkedIn: nelabdiel](https://www.linkedin.com/in/nelabdiel/)  
+[arXiv](https://arxiv.org/a/colonvargas_n_1.html) | [Google Scholar](https://scholar.google.com/citations?user=tz58e2QAAAAJ)
 [Spotify: Nel Abdiel](https://open.spotify.com/artist/73T51R2Kids9OM2jf3TxPG) | [http://nel.world](http://www.nel.world)  
 n a c o l o n (at) g m a i l (dot) c o m  
 
