@@ -112,11 +112,9 @@ w/Charles Frohman, *Journal of Knot Theory and its Ramification* Volume 25, Issu
 ## Letters and Commentaries
 
 
-### Generative AI as a Tool to Bridge the Gap Between Understanding and Misunderstanding for ESL Students
-w/Marcos Ramos-Benitez, *Ponce Health Sciences University Scientific Journal*, 2024. Accepted.
-
 ### Exploiting The Margin: How Capitalism Fuels AI at the Expense of Minoritized Groups
 *AI & Ethics*, Springer Journal, 2024. [DOI: 10.1007/s43681-024-00502-w](https://link.springer.com/content/pdf/10.1007/s43681-024-00502-w)
 
-
+### Generative AI as a Tool to Bridge the Gap Between Understanding and Misunderstanding for ESL Students
+w/Marcos Ramos-Benitez, *Ponce Health Sciences University Scientific Journal*, 2024. Accepted.
 
