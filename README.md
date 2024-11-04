@@ -28,7 +28,7 @@ Teaching graduate policy students Data Science techniques and the Ethics of deve
 *Applied Scientist - AI Policy Lead*  
 *Dec 2023 - Present*
 
-Lead the AI Policy Workstream, a multidisciplinary team, in developing AI Policy, Governance, and Guidance for the agency. Oversee the Safety and Rights impacting review process for AI use cases at VA.
+Lead AI Policy and Governance for the largest civilian agency, driving the development and implementation of comprehensive AI policy, governance, and guidance. Oversee the multidisciplinary AI Policy Workstream, which establishes standards for safe and responsible AI use across the VA. Manage the safety and rights impact review process for AI applications, ensuring robust oversight and alignment with the agency’s mission to protect Veterans and uphold public trust.
 
 
 ### U.S. Food & Drug Administration - Office of the Commissioner, DC
