@@ -1,8 +1,8 @@
 # Nelson A. Colón Vargas, Ph.D.
 
-Miami, FL, 33127   
+&#x1F1F5;&#x1F1F7; | NYC | DC | [MIA] | &#x1F1EC;&#x1F1E7;   
 [LinkedIn: nelabdiel](https://www.linkedin.com/in/nelabdiel/)   
-[arXiv](https://arxiv.org/a/colonvargas_n_1.html) | [Google Scholar](https://scholar.google.com/citations?user=tz58e2QAAAAJ) |  
+[arXiv](https://arxiv.org/a/colonvargas_n_1.html) | [Google Scholar](https://scholar.google.com/citations?user=tz58e2QAAAAJ)  
    <a
     id="cy-effective-orcid-url"
     class="underline"
