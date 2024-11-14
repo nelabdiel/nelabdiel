@@ -111,6 +111,8 @@ B.Sc., Mathematics
 
 ## Selected Publications
 
+### Persistent Cuts: A Topological Analysis of Districting Impacts on Postal Networks
+*In Progress*
 
 ### The Traveling Mailman: Topological Optimization Methods for User-Centric Redistricting
 *Under Review*. [DOI: 10.48550/arXiv.2407.19535](https://arxiv.org/abs/2407.19535)
