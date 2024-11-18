@@ -26,9 +26,9 @@ n a c o l o n (at) g m a i l (dot) c o m
 
 
 ### Columbia University - School of International and Public Affairs
-*Adjunct Faculty - Lecturer*  
+*Adjunct Faculty - Lecturer*   
+*Sept 2022 - Present*  
 [Nelson's SIPA Profile](https://www.sipa.columbia.edu/communities-connections/faculty/nelson-colon-vargas)  
-*Sept 2022 - Present*
 
 Teaching graduate policy students Data Science techniques and the Ethics of developing socially impactful products. Responsible for curriculum development, lab creation, and supervision of 5 Graduate Teaching Assistants.
 
@@ -61,9 +61,9 @@ Worked with the Department of Veterans Affairs on AI strategies and practices, e
 
 
 ### White House Presidential Innovation Fellows, Washington, DC
-*AI Lead - Entrepreneur in Residence*  
+*AI Lead - Entrepreneur in Residence*   
+*Jan 2019 - Oct 2021*  
 [Nelson's PIF Profile](https://presidentialinnovationfellows.gov/fellows/nelson-colon-vargas/)  
-*Jan 2019 - Oct 2021*
 
 Led development and deployment of AI-driven solutions, including a Claims Attributes API that reduced VA benefit claims wait times and saved $10 million annually. Crafted AI and Cybersecurity research funding evaluations for ITS-JPO at DOT.
 
