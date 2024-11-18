@@ -100,7 +100,8 @@ M.Sc., Artificial Intelligence
 
 **University of Cambridge**, Cambridge, UK  
 M.St., Artificial Intelligence Ethics and Society  
-*Expected June 2025*
+*Expected June 2025*  
+Dissertation: A Value-Based Approach to AI Evaluations  
 
 **University of Northern Iowa**, Cedar Falls, IA  
 M.A. Mathamatics  
