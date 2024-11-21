@@ -139,3 +139,18 @@ w/et al, *PrecisionFDA Blog*. [https://precision.fda.gov/experts/22/blog](https:
 ### Generative AI as a Tool for Enhancing ESL Students' Understanding
 w/Marcos Ramos-Benitez, *Ponce Health Sciences University Scientific Journal*, 2024. Accepted.
 
+<hr>
+
+## Press
+- https://www.lathisms.org/calendar-2021s/nelson-colon
+- https://dailyiowan.com/2019/04/30/ui-alum-heads-to-d-c-with-presidential-fellowship/
+- https://math.uprrp.edu/math-alumni-nelson-a-colon-vargas-b-s-mathematics-2009-uprrp-selected-presidential-innovation-fellow/
+- https://www.cienciapr.org/en/monthly-story/nelson-colon-vargas-first-boricua-become-presidential-innovation-fellow
+- https://www.va.gov/opa/publications/vanguard/VAnguard-Fall-2020.pdf (p.16-19)
+- https://digital.va.gov/general/va-launches-smart-tool-to-reduce-veteran-wait-times-for-disability-claims/?redirect=1
+- https://www.govloop.com/cutting-bureaucratic-tape-to-bring-better-service-to-veterans/
+- https://www.uprrp.edu/2019/03/exalumno-de-la-upr-formara-parte-del-white-house-presidential-innovation-fellowship-2019/
+- https://www.cienciapr.org/es/monthly-story/nelson-colon-vargas-primer-boricua-en-recibir-beca-de-innovacion-presidencial-de-la
+- http://govciomedia.com/federal-agencies-explore-ai-use-cases-to-prevent-bias/
+- http://govciomedia.com/culture-remains-a-hurdle-in-dod-ai-race/
+
