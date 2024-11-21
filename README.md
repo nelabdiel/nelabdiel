@@ -126,6 +126,9 @@ w/Charles Frohman, *Algebraic and Geometric Topology*, Volume 17, Issue 6, Octob
 ### Frobenius Algebras Derived From The Kauffman Bracket Skein Algebras
 w/Charles Frohman, *Journal of Knot Theory and its Ramification* Volume 25, Issue 04, April 2016. [DOI: 10.1142/S0218216516500164](https://doi.org/10.1142/S0218216516500164)
 
+### Democratizing and Demystifying Artificial Intelligence (AI) 
+w/et al, *PrecisionFDA Blog*. [https://precision.fda.gov/experts/22/blog](https://precision.fda.gov/experts/22/blog)
+
 
 ## Letters and Commentaries
 
