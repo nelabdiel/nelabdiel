@@ -115,7 +115,7 @@ B.Sc., Mathematics
 ## Selected Publications
 
 ### Q-LIME  Pi: A Quantum-Inspired Extension to LIME
-*In Progress*
+*Preprint*. [DOI: 10.48550/arXiv.2412.17197](https://doi.org/10.48550/arXiv.2412.17197)
 
 ### The Traveling Mailman: Topological Optimization Methods for User-Centric Redistricting
 *Under Review*. [DOI: 10.48550/arXiv.2407.19535](https://arxiv.org/abs/2407.19535)
