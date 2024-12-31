@@ -132,6 +132,8 @@ w/et al, *PrecisionFDA Blog*. [https://precision.fda.gov/experts/22/blog](https:
 
 ## Letters and Commentaries
 
+### Pioneering the Future: VA’s AI Use Case Inventory 
+w/ Varoon Mathur, Digital VA, 2024. [Digital.VA.Gov](https://digital.va.gov/vision-driven-execution/pioneering-the-future-vas-ai-use-case-inventory/)
 
 ### Exploiting The Margin: How Capitalism Fuels AI at the Expense of Minoritized Groups
 *AI & Ethics*, Springer Journal, 2024. [DOI: 10.1007/s43681-024-00502-w](https://link.springer.com/content/pdf/10.1007/s43681-024-00502-w)
