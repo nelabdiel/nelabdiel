@@ -23,12 +23,16 @@ n a c o l o n (at) g m a i l (dot) c o m
 
 ## Academic Appointments
 
+### North Carolina State University - Data Science & AI Academy
+*Lecturer*   
+*January 2025 - Present*  
+[Nelson's SIPA Profile](https://www.sipa.columbia.edu/communities-connections/faculty/nelson-colon-vargas)  
 
+Developing a course titled Fundamentals of LLMs.
 
 ### Columbia University - School of International and Public Affairs
 *Adjunct Faculty - Lecturer*   
-*Sept 2022 - Present*  
-[Nelson's SIPA Profile](https://www.sipa.columbia.edu/communities-connections/faculty/nelson-colon-vargas)  
+*Sept 2022 - December 2024*  
 
 Teaching graduate policy students Data Science techniques and the Ethics of developing socially impactful products. Responsible for curriculum development, lab creation, and supervision of 5 Graduate Teaching Assistants.
 
