@@ -104,7 +104,7 @@ M.Sc., Artificial Intelligence
 
 **University of Cambridge**, Cambridge, UK  
 M.St., Artificial Intelligence Ethics and Society  
-*Expected June 2025*  
+Thesis: To Bot or Not To Bot: The Duality of Humanized Interfaces and Dehumanized Decisions 
 Dissertation: A Value-Based Approach to AI Evaluations  
 
 **University of Northern Iowa**, Cedar Falls, IA  
@@ -143,7 +143,7 @@ w/ Varoon Mathur, Digital VA, 2024. [Digital.VA.Gov](https://digital.va.gov/visi
 *AI & Ethics*, Springer Journal, 2024. [DOI: 10.1007/s43681-024-00502-w](https://link.springer.com/content/pdf/10.1007/s43681-024-00502-w)
 
 ### Generative AI as a Tool for Enhancing ESL Students' Understanding
-w/Marcos Ramos-Benitez, *Ponce Health Sciences University Scientific Journal*, 2024. Accepted.
+w/Marcos Ramos-Benitez, *Ponce Health Sciences University Scientific Journal*, 2025. [DOI: 10.71332/vta3fq83](https://phsujournal.com/index.php/phsu-sj/article/view/10)
 
 <hr>
 
