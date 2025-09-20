@@ -104,8 +104,7 @@ M.Sc., Artificial Intelligence
 
 **University of Cambridge**, Cambridge, UK  
 M.St., Artificial Intelligence Ethics and Society  
-Thesis: To Bot or Not To Bot: The Duality of Humanized Interfaces and Dehumanized Decisions 
-Dissertation: A Value-Based Approach to AI Evaluations  
+Thesis: To Bot or Not To Bot: The Duality of Humanized Interfaces and Dehumanized Decisions  
 
 **University of Northern Iowa**, Cedar Falls, IA  
 M.A. Mathamatics  
@@ -118,8 +117,8 @@ B.Sc., Mathematics
 
 ## Selected Publications
 
-### Q-LIME  $\pi$: A Quantum-Inspired Extension to LIME
-*Preprint*. [DOI: 10.48550/arXiv.2412.17197](https://doi.org/10.48550/arXiv.2412.17197)
+### Closed Formulas for $\eta$-Corrections in the Once Punctured Torus
+*Preprint*. [DOI: 10.48550/arXiv.2508.18334](https://doi.org/10.48550/arXiv.2508.18334)
 
 ### The Traveling Mailman: Topological Optimization Methods for User-Centric Redistricting
 *Under Review*. [DOI: 10.48550/arXiv.2407.19535](https://arxiv.org/abs/2407.19535)
