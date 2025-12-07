@@ -105,7 +105,7 @@ M.Sc Mathematics
 M.Sc., Artificial Intelligence  
 
 **University of Cambridge**, Cambridge, UK  
-M.St., Artificial Intelligence Ethics and Society  
+M.St., Artificial Intelligence Ethics and Society, *with Distinction*  
 Thesis: To Bot or Not To Bot: The Duality of Humanized Interfaces and Dehumanized Decisions  
 
 **University of Northern Iowa**, Cedar Falls, IA  
