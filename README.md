@@ -101,12 +101,12 @@ Ph.D., Mathematics
 Thesis: Localized Skein Algebras as Frobenius Extensions. [DOI: 10.17077/etd.lxsp43cp](https://doi.org/10.17077/etd.lxsp43cp)  
 M.Sc Mathematics
 
-**University of Texas**, Austin, TX  
-M.Sc., Artificial Intelligence  
-
 **University of Cambridge**, Cambridge, UK  
 M.St., Artificial Intelligence Ethics and Society - *with Distinction*  
-Thesis: To Bot or Not To Bot: The Duality of Humanized Interfaces and Dehumanized Decisions  
+Thesis: To Bot or Not To Bot: The Duality of Humanized Interfaces and Dehumanized Decisions 
+
+**University of Texas**, Austin, TX  
+M.Sc., Artificial Intelligence   
 
 **University of Northern Iowa**, Cedar Falls, IA  
 M.A. Mathamatics  
