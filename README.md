@@ -125,9 +125,6 @@ B.Sc., Mathematics
 ### Closed Formulas for $\eta$-Corrections in the Once Punctured Torus
 *Preprint*. [DOI: 10.48550/arXiv.2508.18334](https://doi.org/10.48550/arXiv.2508.18334)
 
-### The Traveling Mailman: Topological Optimization Methods for User-Centric Redistricting
-*Under Review*. [DOI: 10.48550/arXiv.2407.19535](https://arxiv.org/abs/2407.19535)
-
 ### The Localized Skein Algebra is Frobenius
 w/Charles Frohman, *Algebraic and Geometric Topology*, Volume 17, Issue 6, October 2017. [DOI: 10.2140/agt.2017.17.3341](https://doi.org/10.2140/agt.2017.17.3341)
 
