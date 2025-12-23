@@ -119,6 +119,9 @@ B.Sc., Mathematics
 
 ## Selected Publications
 
+### Classical and Quantum Algorithms for Topological Invariants of Torus Bundles
+**Preprint**. [DOI: 10.48550/arXiv.2512.19028](https://arxiv.org/abs/2512.19028)
+
 ### Closed Formulas for $\eta$-Corrections in the Once Punctured Torus
 *Preprint*. [DOI: 10.48550/arXiv.2508.18334](https://doi.org/10.48550/arXiv.2508.18334)
 
