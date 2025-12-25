@@ -45,7 +45,7 @@ Taught graduate policy students Data Science techniques and the Ethics of develo
 
 
 ### Department of Veterans Affairs - Office of the Chief AI Officer, DC
-*Responsible AI Lead*  
+*Applied Scientist Lead*  
 *Dec 2023 - Present*
 
 Lead AI Policy and Governance for the largest civilian agency, driving the development and implementation of comprehensive AI policy, governance, and guidance. Oversee the multidisciplinary AI Policy Workstream, which establishes standards for safe and responsible AI use across the VA. Manage the safety and rights impact review process for AI applications, ensuring robust oversight and alignment with the agency’s mission to protect Veterans and uphold public trust.
